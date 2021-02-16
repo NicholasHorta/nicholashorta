@@ -12,27 +12,28 @@
 <hr/>
 <p>My proficient languages, frameworks, libraries and technologies include: </p>
 <ul>
-  <li>HTML5</li>
-  <li>CSS3</li>
-  <li>Scss</li>
-  <li>Javascript</li>
-  <li>React</li>
-  <li>NodeJS</li>
-  <li>Git</li>
-  <li>Bootstrap</li>
-  <li>MongoDB</li>
+  <li>HTML5 ✔️</li>
+  <li>CSS3 ✔️</li>
+  <li>Scss ✔️</li>
+  <li>Javascript ✔️</li>
+  <li>React ✔️</li>
+  <li>NodeJS ✔️</li>
+  <li>Git ✔️</li>
+  <li>Bootstrap ✔️</li>
+  <li>MongoDB ✔️</li>
 </ul>
 
 <p> And here's a look at what I’m currently learning ... 🌱 </p>
 
 <ul>
-  <li>Pug</li>
-  <li>Typescript</li>
-  <li>React</li>
-  <li>ExpressJS</li>
-  <li>GraphQL</li>
-  <li>PHP</li>
+  <li>Pug 🐤</li>
+  <li>Typescript 🐤</li>
+  <li>ExpressJS 🐤</li>
+  <li>GraphQL 🐤</li>
+  <li>PHP 🐤</li>
 </ul>
+
+<iframe src="https://giphy.com/embed/t9aSsvQL9hkRqrlRqf" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hero0fwar-iasip-dennis-reynolds-the-golden-god-t9aSsvQL9hkRqrlRqf">via GIPHY</a></p>
 
 <hr/>
 

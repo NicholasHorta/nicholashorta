@@ -38,7 +38,7 @@
 <hr/>
 
 <h3> 📫 How to reach me: </h3>
-
+<img src="https://static.turbosquid.com/Preview/2014/05/25__23_20_00/a.jpg0ac8295e-49fd-4d58-9fea-b09904a90baeLarger.jpg">
 <a href="https://www.linkedin.com/in/nick-da-silva-horta/">LinkedIn</a>
 <br/>
 <a href="#">Telegram: @Nick_DevJS</a>

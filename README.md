@@ -6,7 +6,7 @@
 
 <h2>I'm Nicholas Da Silva Horta</h2>
 
-<img src="https://cdn2.scratch.mit.edu/get_image/user/16407630_90x90.png">
+<img src="https://webstockreview.net/images/ghost-clipart-pac-man-16.png">
 
 <strong>I'm a versatile junior front-end developer, able to work proficiently within both UI & UX scopes. I enjoy nothing more than transforming ideas into appealing & beautiful designs. My sense of accomplishment is derived from helping my clients build the foundations of their vision.</strong>
 

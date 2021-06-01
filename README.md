@@ -16,23 +16,15 @@
 <ul>
   <li>HTML5 ✔️</li>
   <li>CSS3 ✔️</li>
-  <li>Scss ✔️</li>
+  <li>SCSS ✔️</li>
   <li>Javascript ✔️</li>
-  <li>React ✔️</li>
-  <li>NodeJS ✔️</li>
+  <li>Typescript ✔️</li>
+  <li>Angular ✔️</li>
+  <li>NodeJS & Express ✔️</li>
+  <li>Tailwind & Bootstrap ✔️</li>
+  <li>NoSQL ✔️</li>
   <li>Git ✔️</li>
-  <li>Bootstrap ✔️</li>
-  <li>MongoDB ✔️</li>
-</ul>
-
-<p> And here's a look at what I’m currently learning ... 🌱 </p>
-
-<ul>
-  <li>Pug 🐤</li>
-  <li>Typescript 🐤</li>
-  <li>ExpressJS 🐤</li>
-  <li>GraphQL 🐤</li>
-  <li>PHP 🐤</li>
+  <li>Golang ✔️</li>
 </ul>
 
 <img src="https://24.media.tumblr.com/99a597a143970fab590e77c3570867cf/tumblr_mgzp1hHa391qf2fu4o1_500.gif">

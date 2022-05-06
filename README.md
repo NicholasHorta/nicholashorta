@@ -20,11 +20,11 @@
   <li>Javascript ✔️</li>
   <li>Typescript ✔️</li>
   <li>Angular ✔️</li>
-  <li>NodeJS & Express ✔️</li>
+  <li>NodeJS using Express ✔️</li>
   <li>Tailwind & Bootstrap ✔️</li>
   <li>NoSQL ✔️</li>
   <li>Git ✔️</li>
-  <li>Golang ✔️</li>
+  <li>Golang (Developing)</li>
 </ul>
 
 <img src="https://24.media.tumblr.com/99a597a143970fab590e77c3570867cf/tumblr_mgzp1hHa391qf2fu4o1_500.gif">
@@ -33,8 +33,6 @@
 
 <h3> 📫 How to reach me: </h3>
 <a href="https://www.linkedin.com/in/nick-da-silva-horta/">LinkedIn</a>
-<br/>
-<a href="#">Telegram: @Nick_DevJS</a>
 <br/>
 <a href="#">07960645210</a>
 <br/>
